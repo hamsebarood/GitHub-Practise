@@ -65,9 +65,25 @@ flex-flow: nowrap;
 display: block;
 background-color: rgb(41, 41, 106);
 justify-content: right;
-height: 100px;
+height: 50px;
 background-color: red;
 border: solid black;
 align-items: flex-end;
 
+}
+.nine {
+    border: solid black;
+    background-color: rgb(57, 57, 189);
+    padding: 50px;
+    text-size-adjust: 50px;
+    flex: content;
+}
+.ten {
+    border: solid red;
+    background-color: peru;
+    text-size-adjust: 50px;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    margin: 100px;
 }
