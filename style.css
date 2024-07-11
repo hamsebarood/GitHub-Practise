@@ -5,8 +5,8 @@ border: solid red;
 text-size-adjust: 40px;
 padding: 30px;
 color: beige;
-text-wrap: flex;
-flex-direction: column;
+text-wrap:pretty
+flex-direction:row-reverse
 border: solid green;
 
 }
@@ -17,8 +17,28 @@ h2 {
     padding: 40px; 
     margin: 25px;
 }
-p2 {
+p{
     color: azure;
     text-align: center;
-    
+    border: dashed rgb(91, 28, 28);
+}
+.two {
+    color: rgb(3, 3, 3);
+}
+.three {
+    background-color: rgb(235, 231, 225);
+    text-emphasis-color: green;
+    padding: 45px;
+    border: solid rgb(5, 5, 82);
+    color: aqua;
+
+}
+.four {
+text-size-adjust: 45px;
+color: black;
+background-color: rgb(231, 231, 140);
+margin: 40px;
+padding: 30px;
+flex-direction: column;
+flex-flow: nowrap;
 }
