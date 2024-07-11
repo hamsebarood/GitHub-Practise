@@ -42,3 +42,21 @@ padding: 30px;
 flex-direction: column;
 flex-flow: nowrap;
 }
+.five {
+    background-color: rgb(118, 17, 213);
+    border: solid yellow;
+    color: aqua;
+    padding: 50px;
+    text-size-adjust: 50px;
+    margin: 50px;
+    flex-grow: initial;
+    text-align: center;
+}
+.six {
+    background-color: rgb(87, 50, 5);
+    padding: 50px;
+    margin: 50px;
+    color: blue;
+    border: solid green;
+    text-align: center;
+}
