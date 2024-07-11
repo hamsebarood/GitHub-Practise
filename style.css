@@ -1,0 +1,24 @@
+div {
+background-color: aqua;
+padding: 30px;
+border: solid red;
+text-size-adjust: 40px;
+padding: 30px;
+color: beige;
+text-wrap: flex;
+flex-direction: column;
+border: solid green;
+
+}
+h2 {
+    background-color: rgb(67, 67, 41);
+    text-emphasis-color: red;
+    border: dashed blueviolet;
+    padding: 40px; 
+    margin: 25px;
+}
+p2 {
+    color: azure;
+    text-align: center;
+    
+}
